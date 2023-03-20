@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel Ramírez Moreno's website"
+title                    : "Miguel Ramírez"
 title_separator          : "-"
 name                     : &name "Miguel Ramírez Moreno"
 description              : &description "Genetics, Drosophila, Data Science, Image Analysis and much more."
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Miguel Ramírez Moreno, PhD"
   avatar           : "mrm_pic.png"
-  bio              : "Postdoctoral researcher focused on cell and molecular biology. Currently investigating Taupathies and developing a keen interest in data science"
+  bio              : "Postdoctoral researcher"
   location         : 
   employer         : "University of Southampton, UK"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
