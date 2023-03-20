@@ -7,13 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miguel Ramírez Moreno's website | Genetics, Drosophila, Data Science, Image Analysis and much more."
+title                    : "Miguel Ramírez Moreno's website"
 title_separator          : "-"
 name                     : &name "Miguel Ramírez Moreno"
 description              : &description "Genetics, Drosophila, Data Science, Image Analysis and much more."
 url                      : https://miguelramirezmoreno.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "miguelramirezmoreno/miguelramirezmoreno.github.io"
+logo                     : "43887905.png"
+masthead_title           : "Miguel Ramírez"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
