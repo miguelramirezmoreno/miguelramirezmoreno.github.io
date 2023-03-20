@@ -15,8 +15,6 @@ url                      : https://miguelramirezmoreno.github.io # the base host
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "miguelramirezmoreno/miguelramirezmoreno.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "43887905.png"
-masthead_title           : "Miguel Ramírez"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
