@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Peer reviewed Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# List of peer-reviewed publications
 
 ## Tau-mediated axonal degeneration is prevented by activation of the WldS pathway (Stubbs *et al*., 2023).
 
