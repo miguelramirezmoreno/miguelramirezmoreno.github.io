@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img width="1024" alt="image" src="https://github.com/miguelramirezmoreno/miguelramirezmoreno.github.io/blob/master/images/header.png">
+<img width="1024" alt="image" src="https://raw.githubusercontent.com/miguelramirezmoreno/miguelramirezmoreno.github.io/master/images/header.png">
 
 
 
