@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img width="1024" alt="image" src="https://github.com/miguelramirezmoreno/miguelramirezmoreno.github.io/blob/master/images/header.png">
 
-header:
-  overlay_image: /images/header.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 
 *This page is under construction and refers to content not online yet. Thanks for your patience*
