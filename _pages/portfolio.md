@@ -12,4 +12,10 @@ author_profile: true
 *This page is under construction and refers to content not online yet. Thanks for your patience*
 {: .notice}
 
-This page contains insights into the tools I have been developing both for research analysis as for my personal growing passion into the field of data science.
+This page contains insights into the tools I have been developing for research analysis.
+
+Also, I am developing a keen interest and everything related to this image:
+
+<img width="700" alt="image" https://raw.githubusercontent.com/miguelramirezmoreno/miguelramirezmoreno.github.io/master/images/AI_circles.png">
+
+As of winter 2023, a lot of people are becoming interested, dependent or even obsessed with the centre of this maze, but I started last year in my free time from the very top. I'm looking forward to learning new things and documenting my progress with tools such as this website.
