@@ -24,9 +24,8 @@ This website is stored at GitHub and mostly written in Markdown language. The or
 How to navigate on this site
 ======
  - The previous paragraph summarizes my career in a few lines. A more comprehensive resume is my CV (academic and non-academic formats), which can be accessed [here](https://miguelramirezmoreno.github.io/cv/). The CV includes the basic information found in the rest of the pages, but obviously does not go as deep.
- - Get a primer of the research projects I have worked on in the [research](https://miguelramirezmoreno.github.io/research/) page.
  - Consult my list of publications [here](https://miguelramirezmoreno.github.io/publications/).
- - The [teaching](https://miguelramirezmoreno.github.io/teaching/) page details my experience with students during my trajectory at UK universities.
- - The [portfolio](https://miguelramirezmoreno.github.io/portfolio/) details my experience with image analysis (developed tools) and my ongoing formation with data science.
- - Finally, I will be reporting ongoing projects (from the learning of a new image analysis script to tips to make your own website) in two places: the blog (accessed in this very same website) and my Substack feed. 
+ - Coming soon there will be sections describing my research projects, my teaching experience, and some of the tools I have developed and that will be found on my personal github.
+ - Finally, you can access to my newsletter hosted in Substack [here](https://thebrainflyover.substack.com/). It aims to introduce to general audiences some of the stuff I have been learning regarding data science and machine learning.
+
 
