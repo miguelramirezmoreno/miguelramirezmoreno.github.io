@@ -4,6 +4,8 @@
 # title: "Blog (Coming soon)" url: /year-archive/ 
 # title: "Teaching" url: /teaching/    
 #   - title: "MD Guide" url: /markdown/
+#  - title: "Portfolio"
+#   url: /portfolio/
 
     
 main:
@@ -16,7 +18,6 @@ main:
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Portfolio"
-    url: /portfolio/
-    
+  
+  - title: "My substack"
+    url: https://thebrainflyover.substack.com/
