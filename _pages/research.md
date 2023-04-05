@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-*This page is under construction and refers to content not online yet. Thanks for your patience*
+*This page is under construction and refers to content not online yet. Thanks for your patience!*
 {: .notice}
 
 
