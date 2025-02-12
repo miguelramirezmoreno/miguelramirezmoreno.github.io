@@ -8,10 +8,18 @@ author_profile: true
 Click on each title to reach the original publication link.
 
 ---
+- **Ramírez Moreno, M**; Quinton, A.; Jacobsen, E.; Stempor, P.A.; Zeidler, M.P. and Bulgakova, N.A. [*E-cadherin endocytosis promotes non-canonical EGFR:STAT signalling to induce cell death and inhibit heterochromatinisation*](https://www.biorxiv.org/content/10.1101/2024.12.10.627701v1) (Submitted preprint, 2024).
+
+---
+- Cooper, A.; Richardson, B.; Ruiz Ortega, E; Zhang,Y.; Ben Batchelor,B.; Vaikakkara Chithran, A.; Liu, J.; Lian, T.; **Ramírez Moreno, M.**, Boehme, B.; Abtahi, L.; Devitt, G.; Sivanantharajah, L.; Skoulakis, E.C.M.; Allan, D.W. and Mudher, A. [*Aggregation promoting sequences rather than phosphorylation are essential for Tau-mediated toxicity in Drosophila*](https://www.biorxiv.org/content/10.1101/2024.12.22.629946v1) (Submitted preprint, 2024).
+
+---
+- Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman*](https://chemrxiv.org/engage/chemrxiv/article-details/67618832fa469535b9e6f28d) (Submitted preprint, 2024).
+
+---
 - Stubbs, K.; Batchelor, B.; Sivanantharajah, L.; Sealey, M.; **Ramírez Moreno, M**; Ruiz, E.; Richardson, B.; Perry, V.H.; Newman, T.A. and Mudher, A. [*Tau-mediated axonal degeneration is prevented by activation of the WldS pathway*](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad052/7073760) (Brain Communications, 2023).
 
 ---
-
 - **Ramírez Moreno, M**; Hunton, R.; Strutt, D. and Bulgakova N.A. [*Deciphering the roles of Fat and Dachsous planar polarity and cell shape in arranging the apical microtubule network*](https://www.molbiolcell.org/doi/10.1091/mbc.E22-09-0442?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) (Molecular Biology of the Cell, 2023).
 
 ---
