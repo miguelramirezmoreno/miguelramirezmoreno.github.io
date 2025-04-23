@@ -45,6 +45,7 @@ Click on each title to reach the original publication link.
 ---
 
 - Płochocka, A.Z.; **Ramírez Moreno, M**; Davie, A.M.; Bulgakova N.A. and Chumakova, L.[*Robustness of the microtubule network self-organization in epithelia*](https://elifesciences.org/articles/59529) (eLife, 2021).
+
 ---
 
 
