@@ -10,6 +10,7 @@ Click on each title to reach the original publication link.
 ---
 - **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://www.biorxiv.org/) (Submitted preprint, 2025).
 ---
+
 - Price, R.; **Ramírez Moreno, M**; Cooper, A; Singh, R; Khaw, Y.M.; Mhaka, A.S.; Sivanantharajah, L. and Mudher, A.  [*Are we missing a trick by not exploiting fruit flies in inflammation-led drug discovery for neurodegeneration?*](https://doi.org/10.1080/17460441.2025.2498675) (Expert Opinion on Drug Discovery, 2025).
 
 ---
