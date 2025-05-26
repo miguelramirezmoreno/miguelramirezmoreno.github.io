@@ -9,7 +9,7 @@ Click on each title to reach the original publication link.
 
 ---
 
-- **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://www.biorxiv.org/) (Submitted preprint, 2025).
+- **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://www.biorxiv.org/content/10.1101/2025.05.21.655273v1) (Submitted preprint, 2025).
 
 ---
 
