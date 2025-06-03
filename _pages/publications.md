@@ -8,26 +8,21 @@ author_profile: true
 Click on each title to reach the original publication link.
 
 ---
+- Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman*](https://pubs.acs.org/doi/10.1021/acs.analchem.5c00776) (Analytical Chemistry, 2025).
 
+---
 - **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://www.biorxiv.org/content/10.1101/2025.05.21.655273v1) (Submitted preprint, 2025).
 
 ---
-
 - Price, R.; **Ramírez Moreno, M**; Cooper, A; Singh, R; Khaw, Y.M.; Mhaka, A.S.; Sivanantharajah, L. and Mudher, A.  [*Are we missing a trick by not exploiting fruit flies in inflammation-led drug discovery for neurodegeneration?*](https://doi.org/10.1080/17460441.2025.2498675) (Expert Opinion on Drug Discovery, 2025).
 
 ---
-
 - **Ramírez Moreno, M**; Quinton, A.; Jacobsen, E.; Stempor, P.A.; Zeidler, M.P. and Bulgakova, N.A. [*E-cadherin endocytosis promotes non-canonical EGFR:STAT signalling to induce cell death and inhibit heterochromatinisation*](https://www.biorxiv.org/content/10.1101/2024.12.10.627701v1) (Submitted preprint, 2024).
 
 ---
 - Cooper, A.; Richardson, B.; Ruiz Ortega, E; Zhang,Y.; Ben Batchelor,B.; Vaikakkara Chithran, A.; Liu, J.; Lian, T.; **Ramírez Moreno, M.**, Boehme, B.; Abtahi, L.; Devitt, G.; Sivanantharajah, L.; Skoulakis, E.C.M.; Allan, D.W. and Mudher, A. [*Aggregation promoting sequences rather than phosphorylation are essential for Tau-mediated toxicity in Drosophila*](https://www.biorxiv.org/content/10.1101/2024.12.22.629946v1) (Submitted preprint, 2024).
 
 ---
-
-- Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman*](https://chemrxiv.org/engage/chemrxiv/article-details/67618832fa469535b9e6f28d) (Submitted preprint, 2024).
-
----
-
 - Stubbs, K.; Batchelor, B.; Sivanantharajah, L.; Sealey, M.; **Ramírez Moreno, M**; Ruiz, E.; Richardson, B.; Perry, V.H.; Newman, T.A. and Mudher, A. [*Tau-mediated axonal degeneration is prevented by activation of the WldS pathway*](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad052/7073760) (Brain Communications, 2023).
 
 ---
