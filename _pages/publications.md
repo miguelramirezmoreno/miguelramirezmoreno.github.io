@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Click on each title to reach the original publication link.
+Click on each title to reach the original publication link or access the DOI.
 
 ---
 - Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman)*](https://pubs.acs.org/doi/10.1021/acs.analchem.5c00776) (Analytical Chemistry, 2025).
