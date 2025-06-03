@@ -8,7 +8,7 @@ author_profile: true
 Click on each title to reach the original publication link.
 
 ---
-- Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman*](https://pubs.acs.org/doi/10.1021/acs.analchem.5c00776) (Analytical Chemistry, 2025).
+- Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman)*](https://pubs.acs.org/doi/10.1021/acs.analchem.5c00776) (Analytical Chemistry, 2025).
 
 ---
 - **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://www.biorxiv.org/content/10.1101/2025.05.21.655273v1) (Submitted preprint, 2025).
