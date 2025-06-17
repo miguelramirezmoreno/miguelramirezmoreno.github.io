@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Miguel Ramírez"
 title_separator          : "-"
 name                     : &name "Miguel Ramírez Moreno"
-description              : &description "Genetics, Drosophila, Data Science, Image Analysis and much more."
+description              : &description "Genetics, Drosophila, Neuroscience, Image Analysis and much more."
 url                      : https://miguelramirezmoreno.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "miguelramirezmoreno/miguelramirezmoreno.github.io"
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Miguel Ramírez Moreno, PhD"
-  avatar           : "mrm_pic.png"
+  avatar           : "MRM_2025.jpeg"
   bio              : "Postdoctoral researcher"
   location         : 
   employer         : "University of Southampton, UK"
