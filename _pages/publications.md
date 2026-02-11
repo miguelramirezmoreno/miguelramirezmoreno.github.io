@@ -8,13 +8,13 @@ author_profile: true
 Click on each title to reach the original publication link or access the DOI.
 
 ---
-- **Ramírez Moreno, M**; Quinton, A.; Jacobsen, E.; Stempor, P.A.; Zeidler, M.P. and Bulgakova, N.A. [*E-cadherin endocytosis promotes non-canonical EGFR:STAT signalling to induce cell death and inhibit heterochromatinisation*](https://www.biorxiv.org/content/10.1101/2024.12.10.627701v1) (PLOS Genetics, 2025).
+- **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://doi.org/10.1242/dmm.052492) (Disease Models & Mechanisms, 2026).
+
+---
+- **Ramírez Moreno, M**; Quinton, A.; Jacobsen, E.; Stempor, P.A.; Zeidler, M.P. and Bulgakova, N.A. [*E-cadherin endocytosis promotes non-canonical EGFR:STAT signalling to induce cell death and inhibit heterochromatinisation*](https://doi.org/10.1371/journal.pgen.1011781) (PLOS Genetics, 2025).
 
 ---
 - Devitt, G.; Hanrahan, N.; **Ramírez Moreno, M.**; Mudher, A. and Mahajan, S. [*A Novel Spectral Barcoding and Classification Approach for Complex Biological Samples using Multi-excitation Raman Spectroscopy (MX-Raman)*](https://pubs.acs.org/doi/10.1021/acs.analchem.5c00776) (Analytical Chemistry, 2025).
-
----
-- **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://www.biorxiv.org/content/10.1101/2025.05.21.655273v1) (Submitted preprint, 2025).
 
 ---
 - Price, R.; **Ramírez Moreno, M**; Cooper, A; Singh, R; Khaw, Y.M.; Mhaka, A.S.; Sivanantharajah, L. and Mudher, A.  [*Are we missing a trick by not exploiting fruit flies in inflammation-led drug discovery for neurodegeneration?*](https://doi.org/10.1080/17460441.2025.2498675) (Expert Opinion on Drug Discovery, 2025).
