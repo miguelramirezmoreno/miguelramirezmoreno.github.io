@@ -17,15 +17,12 @@ redirect_from:
 
 Welcome to my website!
 ======
-My name is Miguel Ramírez Moreno, PhD and, in 2023, postdoctoral researcher at the University of Southampton (United Kingdom). I am currently investigating the mechanisms of transmission of tauopathies such as Alzheimer's disease or Frontotemporal dementia using the fruit fly, *Drosophila melanogaster*, as a model organism. Since my PhD, my research experience has been centred in the use of the powerful genetic toolkits available on this model animal, with a focus on cell and developmental biology, genetics and image analysis. It is thanks to the latter category that I started learning code programming using MATLAB, and the recent technological developments have further pushed me to start learning other languages (Python) and to grasp the broad discipline of data science, including machine learning.
+
+[Check my CV here!](/files/files_website/MRM_Resume_2026.pdf).
+
+My name is Miguel Ramírez Moreno, PhD and, since 2022, postdoctoral researcher at the University of Southampton (United Kingdom). I am currently investigating the mechanisms of transmission of tauopathies such as Alzheimer's disease or Frontotemporal dementia using the fruit fly, *Drosophila melanogaster*, as a model organism. Since my PhD, my research experience has been centred in the use of the powerful genetic toolkits available on this model animal, with a focus on cell and developmental biology, genetics and image analysis. It is thanks to the latter category that I started learning code programming using MATLAB, and the recent technological developments have further pushed me to start learning other languages (Python) and to grasp the broad discipline of data science, including machine learning.
 
 <img width="1024" alt="image" src="https://raw.githubusercontent.com/miguelramirezmoreno/miguelramirezmoreno.github.io/master/images/brain.png">
-
-How to navigate on this site
-======
- - The previous paragraph summarizes my career in a few lines. A more comprehensive resume is my CV (academic and non-academic formats), which can be accessed [here](https://miguelramirezmoreno.github.io/cv/). The CV includes the basic information found in the rest of the pages, but obviously does not go as deep.
- - Consult my list of publications [here](https://miguelramirezmoreno.github.io/publications/).
- - Coming soon there will be sections describing my research projects, my teaching experience, and some of the tools I have developed and that will be found on my personal github.
 
 
 
