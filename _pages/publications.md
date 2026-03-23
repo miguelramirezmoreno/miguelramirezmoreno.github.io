@@ -9,7 +9,7 @@ Click on each title to reach the original publication link or access the DOI.
 
 ---
 - Ivanova, Y., **Ramírez-Moreno, M.**, Liu, J., Abtahi, L., Wu, B., Cooper, A. S., Wang, Z., Allan, D. W., Mudher, A., Comeault.,
-A. A., & Sivanantharajah, L. [*Context-dependent toxicity of human Tau isoforms in a Drosophila tauopathy model](https://doi.org/10.64898/2026.03.20.713147) (Preprint, 2026).
+A. A., & Sivanantharajah, L. [*Context-dependent toxicity of human Tau isoforms in a Drosophila tauopathy model*](https://doi.org/10.64898/2026.03.20.713147) (Preprint, 2026).
 
 ---
 - **Ramírez-Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://doi.org/10.1242/dmm.052492) (Disease Models & Mechanisms, 2026).
