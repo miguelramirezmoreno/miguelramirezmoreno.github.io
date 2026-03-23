@@ -8,7 +8,11 @@ author_profile: true
 Click on each title to reach the original publication link or access the DOI.
 
 ---
-- **Ramírez Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://doi.org/10.1242/dmm.052492) (Disease Models & Mechanisms, 2026).
+- Ivanova, Y., **Ramírez-Moreno, M.**, Liu, J., Abtahi, L., Wu, B., Cooper, A. S., Wang, Z., Allan, D. W., Mudher, A., Comeault.,
+A. A., & Sivanantharajah, L. [*Context-dependent toxicity of human Tau isoforms in a Drosophila tauopathy model](https://doi.org/10.64898/2026.03.20.713147) (Preprint, 2026).
+
+---
+- **Ramírez-Moreno, M**; Cooper, A.; Lian, T; Abtahi, S; Liu, J.S.; Skoulakis, E.M.C.; Sivanantharajah, L.; Allan, D.W. and Mudher, A. [*The Drosophila wing is a high-throughput and versatile screening tool for Tau-mediated disease mechanisms and drug discovery*](https://doi.org/10.1242/dmm.052492) (Disease Models & Mechanisms, 2026).
 
 ---
 - **Ramírez Moreno, M**; Quinton, A.; Jacobsen, E.; Stempor, P.A.; Zeidler, M.P. and Bulgakova, N.A. [*E-cadherin endocytosis promotes non-canonical EGFR:STAT signalling to induce cell death and inhibit heterochromatinisation*](https://doi.org/10.1371/journal.pgen.1011781) (PLOS Genetics, 2025).
@@ -20,7 +24,7 @@ Click on each title to reach the original publication link or access the DOI.
 - Price, R.; **Ramírez Moreno, M**; Cooper, A; Singh, R; Khaw, Y.M.; Mhaka, A.S.; Sivanantharajah, L. and Mudher, A.  [*Are we missing a trick by not exploiting fruit flies in inflammation-led drug discovery for neurodegeneration?*](https://doi.org/10.1080/17460441.2025.2498675) (Expert Opinion on Drug Discovery, 2025).
 
 ---
-- Cooper, A.; Richardson, B.; Ruiz Ortega, E; Zhang,Y.; Ben Batchelor,B.; Vaikakkara Chithran, A.; Liu, J.; Lian, T.; **Ramírez Moreno, M.**, Boehme, B.; Abtahi, L.; Devitt, G.; Sivanantharajah, L.; Skoulakis, E.C.M.; Allan, D.W. and Mudher, A. [*Aggregation promoting sequences rather than phosphorylation are essential for Tau-mediated toxicity in Drosophila*](https://www.biorxiv.org/content/10.1101/2024.12.22.629946v1) (Submitted preprint, 2024).
+- Cooper, A.; Richardson, B.; Ruiz Ortega, E; Zhang,Y.; Ben Batchelor,B.; Vaikakkara Chithran, A.; Liu, J.; Lian, T.; **Ramírez Moreno, M.**, Boehme, B.; Abtahi, L.; Devitt, G.; Sivanantharajah, L.; Skoulakis, E.C.M.; Allan, D.W. and Mudher, A. [*Aggregation promoting sequences rather than phosphorylation are essential for Tau-mediated toxicity in Drosophila*](https://www.biorxiv.org/content/10.1101/2024.12.22.629946v1) (Preprint, 2024).
 
 ---
 - Stubbs, K.; Batchelor, B.; Sivanantharajah, L.; Sealey, M.; **Ramírez Moreno, M**; Ruiz, E.; Richardson, B.; Perry, V.H.; Newman, T.A. and Mudher, A. [*Tau-mediated axonal degeneration is prevented by activation of the WldS pathway*](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad052/7073760) (Brain Communications, 2023).
